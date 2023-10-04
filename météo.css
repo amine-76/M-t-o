@@ -1,0 +1,26 @@
+body{
+    background-image: url("meteo.jpg");
+}
+
+.GrandTitre1{
+    text-align: center;
+    color: coral;
+    text-decoration: underline;
+}
+
+.Ville{
+    margin-left: 50px;
+    color: mediumvioletred;
+}
+
+.res{
+    text-align: center;
+    color: red;
+    border: 10px  ;
+    border-style: dotted;
+    background-color: navajowhite;
+    padding: 5%;
+    margin: 5%;
+    font-size: 25px;
+}
+
